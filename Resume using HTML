@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>Create your Resume</title>
+</head>
+<body>
+<table border=4>
+<tr valign=top>
+<th width=250 height=750 bgcolor="#145369" style="color:white">
+<img src=IMG.jpg height="20%" widht="30%" border=1 >
+<hr color="white">
+
+<center><b> CONTACT INFO</b></center>
+
+<div align="left"><pre>
+<i>Phone</i>:-9019558553
+<i>E-mail</i>:-habhi1112002@gmai.com
+<i>Address</i>:-Palavvanahalli,Hiriyu(Subdistrict),
+Chitradurga(District),Karnataka-577532
+<i>Github</i>:-<a href="https://github.com/Abhishek-HM" style="color:white">https://github.com/Abhishek-HM</a>
+<i>Linkedin</i>:-<a href="https://www.linkedin.com/in/abhishek-h-m-
+55012022b/" style="color:white">https://www.linkedin.com/in/abhishek-h-m-
+55012022b/</a>
+</pre></div>
+
+<hr color="white">
+<center>SKILLS </center>
+<div align="left"><pre>
+Coding:-C,JAVA
+Technologies:-IOT
+</pre></div>
+
+<hr color="white">
+<center> PERSONAL QUALITIES </center>
+<div align="left"><pre>
+Communication
+Project Management
+Leadership
+Quick Learner
+Creative Thinking
+</pre></div>
+
+<hr color="white">
+<center>LANGUAGE KNOWN
+<div align="left"><pre>
+English
+Kannada
+Hindi
+</pre></div>
+
+<hr color="white">
+<center>INTEREST'S
+<div align="left"><pre>
+VolleyBall
+LongJump
+Kho-Kho
+Movies
+Photography
+</div></pre>
+
+
+
+<th width=550 heigtht=750>
+
+<div><center><b>ABHISHEK H M</b></div> 
+<hr color="black">
+
+COMPUTER SCIENCE AND ENGINEERING
+<pre>
+<u>
+PROFESSIONAL SUMMARY
+</u>
+Self-motivated Engineer looking for an opportunity to
+work in a challenging environment to prove my skills
+and utilize my knowledge & intelligence in the growth of
+the organization.
+</pre>
+
+<hr color="black">
+
+EDUCATION
+<pre>
+10th S.R.S Heritage School,Chitradurga
+percentage-78.56% Bord-State
+
+2nd PUC ALVAS PU College,Moodbidri
+percentage -80.33% Bord-State
+
+Graduation-Presidency University, Bengaluru
+Currently pursuing CGPA-8.28
+
+</pre>
+
+<hr color="black">
+
+PROJECT AND WORK EXPERIENCE
+<div>
+<p>
+<pre>
+<b>Smart village</b>
+
+An IOT project built using Wi-Fi Modulo(ESP 8266),
+Blink APP(for notification),Water Motor,light Sensor,Switch
+
+Whenever light emits,light sensor will Sense the light and
+send the notification to phone though Wi-Fi Modulo ,if we
+press the ON from the phone ,then motor will start pumping
+water ,if we press OFF from the phone ,then moter will trun
+OFF,if in case Electric current went off then also it will send
+the notification to phone than current went OFF <a href="https://github.com/Abhishek-HM/IOT-Automatic-On-and-Off-Water-Motor-Through-Phones-" style="color:black">
+https://github.com/Abhishek-HM/IOT-Automatic-On-and-Off-Water-Motor-Through-Phones-</a>
+</div>
+</pre>
+</p>
+
+<hr color="black">
+CERTIFICATE'S
+<pre>
+Introduction to Cyber Security,AWS could
+masterclass-Cloud practitioner Essentials
+certified by NASSCOM
+</pre>
+
+</table>
+</body>
+</html>
